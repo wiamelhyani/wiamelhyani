@@ -1,7 +1,7 @@
 ## 🚀 Welcome to My GitHub Profile!
 
 ### Hi, I'm **Wiam Elhyani!** 👋
-A passionate **Full-Stack Developer** with expertise in building scalable and interactive web applications.
+A passionate **Software engineer** with expertise in building scalable and interactive web applications.
 
 ---
 
