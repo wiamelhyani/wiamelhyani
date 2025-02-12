@@ -23,7 +23,7 @@ I am a dedicated **Software engineer** with a strong passion for crafting innova
 ---
 
 ### 📞 Contact Me:
-📱 **Phone:** 075116965  
+📱 **Phone:** 0751169965  
 📧 **Email:** [elhyaniweeam@gmail.com](mailto:elhyaniweeam@gmail.com)  
 🔗 **LinkedIn:** [Wiam Elhyani](https://www.linkedin.com/in/wiam-elhyani-949990226/)  
 🌐 **Portfolio:** [Visit My Portfolio](https://portfolio-plum-two-66.vercel.app/)
